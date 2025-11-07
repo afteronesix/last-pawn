@@ -14,13 +14,17 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.5.1",
+    "@reown/appkit": "^1.8.13",
+    "@reown/appkit-adapter-wagmi": "^1.8.13",
     "gh-pages": "^6.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-redux": "^9.2.0",
     "react-swipeable": "^7.0.2",
     "sass": "^1.84.0",
-    "scss": "^0.2.4"
+    "scss": "^0.2.4",
+    "viem": "^2.38.6",
+    "wagmi": "^2.19.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",

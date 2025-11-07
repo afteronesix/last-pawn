@@ -1,7 +1,7 @@
 <img src="public/readme/checkered-divider.png" alt="Divider" width="100%" align="center">
 <h1 align="center">
   <p></p>
-  
+  <a href="https://github.com/afteronesix/last-pawn.git">
     <img src="public/readme/logo.svg" alt="The Last Pawn Logo" width="500px">
   </a>
   <!-- <img src="public/readme/checkered-divider.png" alt="Divider" width="100%" align="center"> -->
